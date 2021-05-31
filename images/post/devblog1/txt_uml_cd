@@ -1,0 +1,92 @@
+@startuml
+
+class Animation {
+- frames : List<AnimationFrame>
+- isLooping : bool
+- CurrentRectangle : Rectangle
+
++ AddFrame(rectangle : Rectangle, duration : Timespan)
++ Update(gameTime : GameTime)
+}
+class AnimationFrame {
+- SourceRectangle : Rectangle
+- Duration : TimeSpan
+}
+class NoLoopSet {
+- animations : HashSet<String>
+}
+class TextBoxAnimation {
+- charArray : char[]
+- fastForward : bool
+- previousMouseState : ButtonState
+- Duration : TimeSpan
+- currentString : String
+
++ Update(gameTime: GameTime)
+}
+
+Animation o-- AnimationFrame
+
+class Character {
+- LAYER_DEPTH : float
+
++ EndOfLine(textBox : TextBox) : bool
++ Update(gameTime: GameTime)
++ Draw(gameTime : GameTime)
+}
+
+Character o-- Animation
+
+class TextBox {
+-soundEffect : SoundEffect
+-previousString : String
+
++ Update(gameTime: GameTime)
++ Draw(gameTime : GameTime, spriteBatch : SpriteBatch)
+}
+class TxtReader {
+- dialogueIndex : int
+- text : String[]
+
++ currentLine() : String
++ nextLine()
++ getLocation() : String
++ getDialogue() : String[]
+}
+
+TextBox o-- TextBoxAnimation
+
+class Background {
+- background : Texture2D
+
++ Draw (spriteBatch : SpriteBatch)
+}
+
+class SceneManager {
+- previousMouseState : ButtonState
+- content : ContentManager
+- endLine : bool
+- dialogue : String[]
+
++ Update(gameTime : GameTime)
++ Draw (spriteBatch : SpriteBatch)
+}
+
+SceneManager o-- Background
+SceneManager o-- Character
+SceneManager o-- TextBox
+SceneManager o-- NoLoopSet
+SceneManager o-- TxtReader
+
+class Game1 {
+- DEFAULT_WIDTH : int
+- DEFAULT_HEIGHT : int
+
++ Initialize()
++ Update(gameTime: GameTime)
++ Draw(gameTime : GameTime)
+}
+
+Game1 o-- SceneManager
+
+@enduml

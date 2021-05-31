@@ -1,0 +1,75 @@
+@startuml
+class EventManager {
+- MainCharacter
+- TxtReader
+
++ Update(GameTime)
++ Draw (SpriteBatch)
+}
+
+class TxtReader {
+- MainCharacter
+
++ NextTextObject
++ CurrentTextObject : ITextObject
+}
+
+EventManager o-- TxtReader
+
+interface ITextObject {}
+
+class LineOfDialogue {
+- CharacterAnimation : CharacterAnimation
+- Sound : SoundEffect
+- Dialogue : String
+}
+
+class Background {}
+class Audio {}
+class CharacterAnimation {}
+class ChoiceDialogue {}
+
+ITextObject <|.. Background
+ITextObject <|.. Audio
+ITextObject <|.. CharacterAnimation
+ITextObject <|.. ChoiceDialogue
+ITextObject <|.. LineOfDialogue
+
+class Game1 {
+- DEFAULT_WIDTH : int
+- DEFAULT_HEIGHT : int
+
++ Initialize()
++ Update(GameTime)
++ Draw(GameTime)
+}
+
+interface IManager {
+}
+
+Game1 o-- GameplayManager
+GameplayManager o-- IManager
+IManager <|.. EventManager
+
+class AllEventDialogue{
+- AllEvents : Dictionary<string, List<EventDialogue>>
+}
+
+class EventDialogue{
+- RequiredStats : Dictionary<string, int>
+- RequiredRelationships : Dictionary<string, int>
+- RequiredFlags : HashSet<string>
+- Text : String
+}
+
+class MainCharacter{
+- Stats : Dictionary<string, int>
+- Relationships : Dictionary<string, int>
+- EventFlags : HashSet<string>
+}
+
+AllEventDialogue o-- EventDialogue
+GameplayManager o-- MainCharacter
+GameplayManager o-- AllEventDialogue
+
+@enduml
