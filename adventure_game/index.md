@@ -10,7 +10,7 @@
 
 Eagerly awaiting the potential -- but not probable -- next installment of *Ace Attorney* (please Capcom!), **Jenny** and **Diana** decided to take matters into their own hands to bring you a new mystery adventure. *Untitled Game* is a game that combines the classic mystery novel with social simulation and puzzle elements. It's funny, charming, and most importantly, thrilling. 
 
-Detailed updates on the game's progress can be found on our [developer blog](https://t-jenny.github.io/categories/devblog/).
+Detailed updates on the game's progress can be found on our [developer blog](https://t-jenny.github.io/categories/dev-blog/).
 
 ---
 
