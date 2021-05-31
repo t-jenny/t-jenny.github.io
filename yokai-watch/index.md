@@ -19,7 +19,6 @@ With that said, if you are looking for any of the following in *Yo-Kai Watch*:
 1. a 100-hour main story
 2. an engaging battle system
 3. blood, gore, or psychological manipulation
-{{< image src="/images/post/yokai/dog.jpeg" caption="A legendary Yo-Kai" class="right" >}}
 4. death, guns, and *GTA*
 5. *Dark Souls* pain
 
@@ -40,8 +39,6 @@ buy now or continue reading.
 
 *Yo-kai Watch* has a fairly simple premise. The main character (anime: Nate) stumbles across a decrepit gachapon machine in the forest.
 
-{{< image src="/images/post/yokai/anime.gif" caption="Yo-Kai Watch anime" class="left" >}}
-
 Nate inserts a coin, spins the lever, and out pops out a Yo-kai (Japanese for spirit, ghost, etc.) named Whisper who gives Nate a Yo-kai watch and introduces him to a mysterious and magical world.
 
 **Yo-kai are everywhere!**
@@ -56,16 +53,14 @@ It is easy to see why children in Japan are obsessed with *Yo-kai Watch*. Its st
 
 *Yo-kai Watch* is packed with tons of content. You can catch critters, explore the town, traverse secret dungeons, complete side-quests, and catch over a hundred different Yo-Kai.
 
-{{< image src="/images/post/yokai/butt.jpeg" caption="RDJ's Yo-Kai" class="left" >}}
-
 It takes advantage of the 3-DS camera and the game’s passionate online community. QR codes are offered when watching the Yo-Kai Watch anime on Disney X-D or when purchasing action figures and collectible coins. The internet has to work together to capture randomly generated criminals and piece together the weekly password.
 
 Level-5 always delivers on graphics and presentation. The character movement is incredibly smooth. The color is vibrant and charming. The music is bouncy and fun. The attention to detail is out of this world: you can buy soda from the soda machines; jaywalking is frowned upon; even the loading screen is cute.
 
+{{< image src="/images/post/yokai/anime.gif" caption="The Yo-Kai Watch Anime" class="featured-image" >}}
+
 After completing a sidequest, you get to watch a random little cutscene; the scene is always amusing (one involves all of the old Yo-Kai playing mini golf), and depending on the scene’s outcome, you might even receive a rare bonus item.
 Sometimes, you encounter random Yo-Kai on the streets which you have to chase down to get rare items. 
-
-{{< image src="/images/post/yokai/onsen.jpeg" caption="Yo-Kai Onsen" class="left" >}}
 
 Early on in the plot, an old man asks you to fetch his underwear from the spa.
 
@@ -79,11 +74,11 @@ To top it off, it has one of the most nerve-racking mini-games I have ever encou
 
 ### My Gripes
 
+{{< youtube 6_PgiiR2vFk >}}
+
 *Yo-Kai Watch*’s main setback is its tedious gameplay. Catching rare critters is nearly impossible.
 
 In order to even find a rare fish or bug, you have to inspect every single tree or river in the entire forest. Once you find one, before you can catch it, you have to play an random spinner mini-game which usually results in your loss.
-
-{{< image src="/images/post/yokai/battle.png" caption="A far too frequent Yo-Kai battle" class="right" >}}
 
 Catching Yo-Kai is even more infuriating. A Yo-Kai must approach you after a battle in order for you to recruit them to your team. To up those chances, you can feed a Yo-Kai its favorite food once during the battle. First, you must first figure out what its favorite food is, and if that is not difficult enough, it can take several battles before even the weakest Yo-Kai joins you.
 
@@ -96,6 +91,8 @@ Players can rotate between six Yo-Kai and activate a Yo-Kai’s soultimate move 
 ---
 
 ### A Little Tangent: Impossible Success in the US?
+
+{{< image src="/images/post/yokai/kids.jpg" caption="Kids hanging with Yo-Kai" class="featured-image" >}}
 
 Part of the game’s charm relies on the player’s inherent understanding and appreciation for Japanese culture. The little details that make the game so endearing, like the taking off shoes at the door or the charms at the Shinto shrine, are completely lost on a majority of Western audiences.
 

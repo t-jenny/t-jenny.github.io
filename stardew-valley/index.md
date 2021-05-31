@@ -12,17 +12,15 @@
 
 As someone who obsessed over *Harvest Moon* since I played *More Friends of Mineral Town* in middle school, I was surprised by the popularity of *Stardew Valley*. Youtubers, Twitch streamers, and even my brother, a long-time critic of my video game tastes, loved this game. How did a seemingly random farming simulator manage to win over even the most obstinate casual game haters?
 
-{{< image src="/images/post/stardew/abby-flute.gif" caption="Abigail crushing at the flute" class="left" >}}
-
 After I spent 20 hours on the game, it was clear that these new farming sim converts never gave *Harvest Moon* a chance. From the music to the graphics to the villagers’ personalities, *Stardew Valley* **IS** a *Harvest Moon* game with all its staples including farming (obviously), house upgrades, friendship levels, festivals, and even mining combat (first introduced in *Rune Factory: A Fantasy Harvest Moon*). 
 
 That is not to say *Stardew Valley* does not have its own merits; in fact, it is better than any *Harvest Moon* title to date. With its customization options, interesting characters, and hidden secrets, *Stardew Valley* has tweaked every aspect of the *Harvest Moon* formula to create a more mature and satisfying farming sim.
 
+{{< youtube ot7uXNQskhs >}}
+
 ---
 
 ### Story
-
-{{< image src="/images/post/stardew/office.png" caption="Joja's offices" class="right" >}}
 
 To escape the monotonous grind of the corporate machine, you quit and move to your grandfather’s old farm in Pelican Town.
 
@@ -38,7 +36,7 @@ Restoring the community center provides a long-term goal for players who want mo
 
 As you level up your skills, you will unlock item blueprints, and soon you will be turning your milk into cheese, eggs into mayonnaise, and grapes into wine. Unique to *Stardew Valley*, you can place your equipment wherever you want on your property. With an overwhelming amount of land to customize, you can spend hours designing and redesigning your farm.
 
-{{< image src="/images/post/stardew/mining.png" caption="Monsters at the mine" class="left" >}}
+{{< image src="/images/post/stardew/mining.png" caption="Monsters at the mine" class="featured-image" >}}
 
 Mining provides rare items and ores essential for blueprints and tool upgrades, but be extra careful of your health and stamina! If you pass out in the mines, not only will you lose hard-earned cash, but you will lose progress in your mining descent.
 
@@ -56,7 +54,7 @@ For more information, you can visit [Barone’s developer blog](https://www.star
 
 *Stardew Valley* features an eclectic group of characters, some with pretty weird quirks (… Abigail), who experience real issues including alcoholism and depression.
 
-{{< image src="/images/post/stardew/dialogue.jpeg" caption="Abigail is actually Spyro" class="center" >}}
+{{< image src="/images/post/stardew/dialogue.jpeg" caption="Abigail is actually Spyro" class="featured-image" >}}
 
 As you talk to villagers, you will encounter special cutscenes that reveal more about a character’s personality. Regardless of your gender, there are 5 bachelor and 5 bachelorettes that you can marry. These characters have more frequent and fleshed out cutscenes and need a bouquet to pass 8 friendship hearts.
 
